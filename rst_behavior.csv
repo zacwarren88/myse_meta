@@ -1,0 +1,123 @@
+UID,population,sub_let,sub_pop,variable,val_mean,val_min,val_max,val_se,val_sd
+Broders_2004,F-Mx,a,NA,bats_roost,10.4,NA,NA,NA,7.2
+Broders_2004,M-Mx,a,NA,bats_roost,1,NA,NA,NA,0
+Carter_2005,F-Mx,a,NA,switches_bat,2.5,0,5,NA,NA
+Carter_2005,F-Mx,a,NA,roost_to_roost,NA,NA,860,NA,NA
+Carter_2005,F-Mx,a,NA,capt_to_roost,NA,NA,1390,NA,NA
+Carter_2005,F-Mx,a,NA,roosts_bat,3.5,1,6,NA,NA
+Carter_2005,F-Mx,a,NA,days_bat,3.9,0,7,NA,NA
+Cryan_2001,F-Mx,a,NA,days_roost,3.25,NA,NA,NA,2.82
+Cryan_2001,F-Mx,a,NA,roost_to_roost,600,NA,1500,NA,500
+Cryan_2001,F-Mx,a,NA,capt_to_roost,2200,NA,5900,NA,1398
+Cryan_2001,F-Mx,a,NA,roosts_bat,2.3,1,7,NA,2.1
+Cryan_2001,F-Mx,a,NA,bats_roost,4.1,NA,41,NA,9.8
+Cryan_2001,F-Mx,a,NA,days_bat,6.8,1,13,NA,3
+Fabianek_2015,M-Mx,a,NA,days_roost,2,1,6,NA,1
+Fabianek_2015,M-Mx,a,NA,roosts_bat,5,3,7,NA,2
+Fabianek_2015,M-Mx,a,NA,days_bat,9,7,14,NA,2
+Ford_2006,M-Mx,a,NA,capt_to_roost,463,NA,NA,64.1,NA
+Ford_2006,M-Mx,a,NA,roosts_bat,2.3,NA,NA,0.4,NA
+Ford_2006,M-Mx,a,NA,days_bat,3,NA,NA,0.4,NA
+Foster_1999,F-Mx,a,NA,switches_bat,2.8,1,6,NA,NA
+Foster_1999,F-Mx,a,NA,days_roost,2,NA,NA,NA,NA
+Foster_1999,F-Mx,a,NA,roost_to_roost,333,NA,2000,88,NA
+Foster_1999,F-Mx,a,NA,bats_roost,13,NA,60,NA,2
+Foster_1999,F-Mx,a,NA,days_bat,5.6,2,9,NA,NA
+Grindal_1998,MF-Mx,a,NA,bats_roost,21,NA,NA,13.1,22.7
+Henderson_2008,F-Mx,a,NA,roost_to_roost,227,NA,NA,NA,161
+Henderson_2008,F-Mx,a,NA,capt_to_roost,285,NA,NA,NA,121
+Henderson_2008,F-Mx,a,NA,days_bat,4.6,2,7,NA,NA
+Henderson_2008,F-Mx,a,NA,roost_area,1.13,NA,NA,NA,1.04
+Johnson_2009,F-Mx,a,Fire Treatment,days_roost,1.43,1,6,0.155,0.76
+Johnson_2009,F-Mx,a,Fire Treatment,roost_to_roost,152,16,314,21.3,90.4
+Johnson_2009,F-Mx,a,Fire Treatment,roosts_bat,2.35,NA,NA,0.402,NA
+Johnson_2009,F-Mx,a,Fire Treatment,days_bat,4.36,2,8,0.56,NA
+Johnson_2009,F-Mx,b,Control Treatment,days_roost,1.32,1,5,0.091,0.61
+Johnson_2009,F-Mx,b,Control Treatment,roost_to_roost,230,7,634,24.4,170.8
+Johnson_2009,F-Mx,b,Control Treatment,roosts_bat,3.04,NA,NA,0.34,NA
+Johnson_2009,F-Mx,b,Control Treatment,days_bat,5,1,9,0.507,NA
+Johnson_2009,F-Mx,c,Combined Populations,days_roost,1.35,NA,NA,NA,NA
+Johnson_2009,F-Mx,c,Combined Populations,roost_to_roost,217,NA,634,NA,NA
+Broders_2006,F-Mx,a,NA,roost_to_roost,457,NA,NA,NA,329
+Broders_2006,F-Mx,a,NA,capt_to_roost,1001,NA,NA,NA,693
+Broders_2006,F-Mx,a,NA,roost_area,8.6,NA,NA,NA,9.8
+Broders_2006,M-Mx,a,NA,roost_to_roost,158,NA,NA,NA,127
+Broders_2006,M-Mx,a,NA,capt_to_roost,402,NA,NA,NA,452
+Broders_2006,M-Mx,a,NA,roost_area,1.4,NA,NA,NA,1.4
+Johnson_2012,F-Mx,a,NA,bats_roost,NA,NA,48,NA,NA
+Johnson_2012,F-Mx,a,NA,roost_area,12.6,NA,NA,3,9.95
+Jung_2004,M-Mx,a,NA,days_roost,3.1,NA,6,0.3,1.16
+Lacki_2001,F-P,b,NA,bats_roost,25.6,NA,NA,10.2,NA
+Lacki_2001,F-L,c,NA,bats_roost,13.5,NA,NA,2.98,NA
+Lacki_2001,F-PL,d,NA,bats_roost,3.8,NA,NA,1.66,NA
+Lacki_2009,F-Mx,a,Combined Populations,roosts_bat,3.8,NA,NA,0.42,NA
+Lacki_2009,F-Mx,a,Combined Populations,days_bat,6.33,NA,NA,0.46,NA
+Menzel_2002,F-L,a,NA,days_roost,5.3,NA,NA,2,NA
+Menzel_2002,F-L,a,NA,bats_roost,31.3,NA,65,16.9,NA
+Park_2012,F-Mx,c,Combined Populations,capt_to_roost,1136,NA,2375,NA,NA
+Park_2012,F-L,a,NA,bats_roost,9,NA,19,NA,NA
+Park_2012,F-NR,b,NA,bats_roost,7.6,NA,28,NA,NA
+Perry_2007,M-Mx,a,NA,bats_roost,51,NA,NA,NA,NA
+Perry_2007,F-Mx,b,NA,bats_roost,1,NA,1,NA,NA
+Sasse_1996,F-Mx,a,NA,capt_to_roost,602,60,1719,66.6,337
+Sasse_1996,F-Mx,a,NA,roosts_bat,2.2,1,5,NA,NA
+Sasse_1996,F-Mx,a,NA,bats_roost,NA,NA,36,NA,NA
+Sasse_1996,F-Mx,a,NA,days_bat,8,1,19,5.2,NA
+Timpone_2010,UNK,a,NA,days_roost,NA,1,11,NA,NA
+Timpone_2010,UNK,a,NA,roost_to_roost,670,NA,3900,100,NA
+Timpone_2010,UNK,a,NA,capt_to_roost,1700,NA,4800,400,NA
+Timpone_2010,UNK,a,NA,roosts_bat,3.1,NA,NA,NA,NA
+Timpone_2010,UNK,a,NA,days_bat,4.9,1,13,2.9,NA
+Wolff_2009,UNK,a,NA,switches_bat,NA,2,3,NA,NA
+Badin_2014,F-Mx,c,Combined Populations,switches_bat,3.1,0,8,NA,NA
+Badin_2014,F-Mx,c,Combined Populations,days_roost,NA,NA,5,NA,NA
+Badin_2014,F-Mx,c,Combined Populations,roost_to_roost,218,NA,NA,NA,NA
+Badin_2014,F-Mx,c,Combined Populations,capt_to_roost,1000,NA,2649,NA,NA
+Badin_2014,F-Mx,c,Combined Populations,roosts_bat,3.7,1,9,NA,NA
+Badin_2014,F-Mx,c,Combined Populations,bats_roost,8.1,NA,44,NA,NA
+Badin_2014,F-Mx,c,Combined Populations,days_bat,5.3,1,11,NA,NA
+Badin_2014,F-Mx,c,Combined Populations,roost_area,5.4,NA,9.3,NA,NA
+Kaupas_2016,F-L,a,NA,roosts_bat,3.5,1,6,NA,NA
+Kaupas_2016,F-L,a,NA,days_bat,5.3,2,12,0.8,2.65
+Keinath_2016,MF-Mx,a,NA,capt_to_roost,410,NA,NA,NA,437
+Keinath_2016,MF-Mx,a,NA,days_bat,5,NA,NA,NA,NA
+Krynak_2010,F-Mx,a,NA,roost_to_roost,NA,NA,859,NA,NA
+Krynak_2010,F-Mx,a,NA,capt_to_roost,NA,NA,1550,NA,NA
+Krynak_2010,F-Mx,a,NA,bats_roost,2.6,NA,NA,0.5,1.4
+Lereculeur_2013,MF-Mx,a,NA,switches_bat,5.4,NA,NA,NA,NA
+Lereculeur_2013,MF-Mx,a,NA,days_roost,1.7,NA,9,NA,NA
+Lereculeur_2013,MF-Mx,a,NA,roost_to_roost,256.5,NA,1700,NA,NA
+Lereculeur_2013,MF-Mx,a,NA,roost_area,6.4,NA,29.9,2,9.2
+Lereculeur_2013,F-Mx,a,NA,bats_roost,17,NA,116,NA,NA
+Lowe_2012,M-Mx,a,NA,capt_to_roost,3484,NA,NA,NA,2688
+Lowe_2012,F-Mx,b,NA,capt_to_roost,4760.5,NA,NA,NA,3720
+O'Keefe_2009,M-Mx,a,NA,days_roost,2.3,1,6,0.4,NA
+O'Keefe_2009,M-Mx,a,NA,roost_to_roost,317,NA,626,40,NA
+O'Keefe_2009,M-Mx,a,NA,capt_to_roost,521.7,NA,NA,114.2,457
+O'Keefe_2009,M-Mx,a,NA,roosts_bat,3.3,1,8,0.6,NA
+O'Keefe_2009,M-Mx,a,NA,bats_roost,NA,NA,1,NA,NA
+O'Keefe_2009,M-Mx,a,NA,days_bat,6.2,1,14,1,4
+O'Keefe_2009,M-Mx,a,NA,roost_area,1.01,0.01,2.41,0.35,1.05
+O'Keefe_2009,F-Mx,b,NA,days_roost,2.8,1,8,0.5,NA
+O'Keefe_2009,F-Mx,b,NA,roost_to_roost,709,NA,1817,78,NA
+O'Keefe_2009,F-Mx,b,NA,capt_to_roost,458.9,NA,NA,49.4,210
+O'Keefe_2009,F-Mx,b,NA,roosts_bat,3.1,1,8,0.5,NA
+O'Keefe_2009,F-Mx,b,NA,bats_roost,NA,NA,75,NA,NA
+O'Keefe_2009,F-Mx,b,NA,days_bat,6.2,1,15,0.8,3.4
+O'Keefe_2009,F-Mx,b,NA,roost_area,5.23,0.05,24.49,2.52,10.7
+Olson_2011,F-Mx,a,NA,bats_roost,NA,NA,29,NA,NA
+Owen_2002,F-Mx,a,NA,days_roost,3,NA,NA,1.5,NA
+Owen_2002,F-Mx,a,NA,bats_roost,NA,NA,88,NA,NA
+Swier_2003,F-Mx,a,NA,days_roost,1.3,1,3,NA,0.76
+Swier_2003,F-Mx,a,NA,roost_to_roost,63.29,NA,105,NA,42.8
+Swier_2003,F-Mx,a,NA,roosts_bat,3.5,NA,NA,NA,0.71
+Thalken_2017,F-NR,a,NA,bats_roost,2.65,NA,NA,0.63,NA
+Thalken_2017,F-Mx,b,NA,bats_roost,7.3,NA,40,1.58,NA
+Zimmerman_2015,F-Mx,b,NA,capt_to_roost,189.57,133,302,13.32,49.85
+Zimmerman_2015,F-Mx,b,NA,roosts_bat,1.21,NA,NA,NA,0.43
+Zimmerman_2015,M-Mx,a,NA,capt_to_roost,234,210,285,24,33.94
+Zimmerman_2015,M-Mx,a,NA,roosts_bat,1,NA,NA,NA,NA
+Bales_2007,MF-Mx,a,NA,days_roost,2.6,NA,NA,NA,0.2
+Bales_2007,MF-Mx,a,NA,roost_to_roost,182,NA,NA,NA,175
+Jackson_2004,F-Mx,a,NA,roost_to_roost,295.68,36.9,877.3,22.86,125.21
+Jackson_2004,F-Mx,a,NA,roosts_bat,8.63,2,13,NA,2.27
