@@ -93,7 +93,7 @@ Johnson_2009,F-Mx,Fire Treatment,a,R18-Tree/snag height (m),13.97,1.3,11.59,1,NA
 Johnson_2009,F-Mx,Fire Treatment,a,R14-Roost height (m),8.55,1.02,7.58,0.59,NA,25,25
 Johnson_2009,F-Mx,Fire Treatment,a,R15-Tree/Snag bark cover (%),69.52,6.48,59.2,6.58,NA,25,25
 Johnson_2009,F-Mx,Fire Treatment,a,"R26-Roost Type (cavity = 1, bark = 0)",0.96,0.04,0.76,0.09,NA,25,25
-Johnson_2009,F-Mx,Fire Treatment,a,R16-Tree/snag canopy cover (%),82.44,1.9,12.54,0.67,NA,25,25
+Johnson_2009,F-Mx,Fire Treatment,a,R16-Tree/snag canopy cover (%),82.44,1.9,87.46,0.67,NA,25,25
 Johnson_2009,F-Mx,Fire Treatment,a,SL50-Percent Canopy Gap - 90deg. wedge centered over North (%),9.51,0.87,8.34,0.83,NA,25,25
 Johnson_2009,F-Mx,Fire Treatment,a,SL51-Percent Canopy Gap - 90deg. wedge centered over East (%),16.34,1.67,13.63,1.21,NA,25,25
 Johnson_2009,F-Mx,Fire Treatment,a,SL52-Percent Canopy Gap - 90deg. wedge centered over South (%),26.81,4.01,15.1,1.52,NA,25,25
@@ -116,7 +116,7 @@ Johnson_2009,F-Mx,Control Treatment,b,R18-Tree/snag height (m),16.28,1.19,15.04,
 Johnson_2009,F-Mx,Control Treatment,b,R14-Roost height (m),8.79,0.73,7.59,0.43,NA,44,45
 Johnson_2009,F-Mx,Control Treatment,b,R15-Tree/Snag bark cover (%),55.95,4.95,59.89,5.2,NA,44,45
 Johnson_2009,F-Mx,Control Treatment,b,"R26-Roost Type (cavity = 1, bark = 0)",0.81,0.06,0.62,0.07,NA,44,45
-Johnson_2009,F-Mx,Control Treatment,b,R16-Tree/snag canopy cover (%),90.64,0.19,8.62,0.25,NA,44,45
+Johnson_2009,F-Mx,Control Treatment,b,R16-Tree/snag canopy cover (%),90.64,0.19,91.38,0.25,NA,44,45
 Johnson_2009,F-Mx,Control Treatment,b,SL50-Percent Canopy Gap - 90deg. wedge centered over North (%),6.02,0.43,7.05,0.6,NA,44,45
 Johnson_2009,F-Mx,Control Treatment,b,SL51-Percent Canopy Gap - 90deg. wedge centered over East (%),8.25,0.43,9.49,0.54,NA,44,45
 Johnson_2009,F-Mx,Control Treatment,b,SL52-Percent Canopy Gap - 90deg. wedge centered over South (%),13,0.57,10.15,0.59,NA,44,45
