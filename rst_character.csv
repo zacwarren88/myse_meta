@@ -505,3 +505,11 @@ Zimmerman_2015,F-L,Lactating Females,c,R18-Tree/snag height (m),22.55,0.43,NA,NA
 Zimmerman_2015,F-L,Lactating Females,c,SL11-Distance to open/lentic water (m),165.55,26.17,NA,NA,NA,11,NA
 Bales_2007,MF-Mx,NA,a,R17-Tree/snag diameter (cm),51.73,2.7,NA,NA,NA,63,NA
 Bales_2007,MF-Mx,NA,a,R25-Decay Class (Cline 1980),2.62,0.1,NA,NA,NA,63,NA
+Schultes_2002,MF-Mx,NA,a,R17-Tree/snag diameter (cm),24,3.7,19.2,3.7,0.279,21,21
+Schultes_2002,MF-Mx,NA,a,R18-Tree/snag height (m),11.9,1.7,8.6,1.3,0.279,20,21
+Schultes_2002,MF-Mx,NA,a,R15-Tree/Snag bark cover (%),96.6,1.4,69.4,8.5,0.005,21,21
+Schultes_2002,MF-Mx,NA,a,SL27-Slope (%),21.6,1.8,20.7,2.2,0.839,21,21
+Schultes_2002,MF-Mx,NA,a,R16-Tree/snag canopy cover (%),97.9,0.01,97.7,0.3,0.25,21,21
+Schultes_2002,MF-Mx,NA,a,R4-Distance to nearest available tree (m),7.9,1.1,7,0.9,0.511,21,21
+Schultes_2002,MF-Mx,NA,a,SL25-Percent understory cover (%),44.3,7,39.8,7.2,0.511,21,21
+Schultes_2002,MF-Mx,NA,a,SL28-Stand basal area (m2/ha),23.4,1.3,23.9,1.3,0.83,21,21

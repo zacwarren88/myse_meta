@@ -121,3 +121,10 @@ Bales_2007,MF-Mx,a,NA,days_roost,2.6,NA,NA,NA,0.2
 Bales_2007,MF-Mx,a,NA,roost_to_roost,182,NA,NA,NA,175
 Jackson_2004,F-Mx,a,NA,roost_to_roost,295.68,36.9,877.3,22.86,125.21
 Jackson_2004,F-Mx,a,NA,roosts_bat,8.63,2,13,NA,2.27
+Schultes_2002,MF-Mx,a,NA,switches_bat,2,1,4,NA,NA
+Schultes_2002,MF-Mx,a,NA,days_roost,2.5,1,11,NA,NA
+Schultes_2002,MF-Mx,a,NA,roost_to_roost,40,0,360,NA,NA
+Schultes_2002,MF-Mx,a,NA,capt_to_roost,357.1,200,800,92.21,243.98
+Schultes_2002,MF-Mx,a,NA,roosts_bat,3,2,13,0.44,1.15
+Schultes_2002,MF-Mx,a,NA,bats_roost,4,2,8,2,3.46
+Schultes_2002,MF-Mx,a,NA,days_bat,5.57,2,13,1.67,4.43
