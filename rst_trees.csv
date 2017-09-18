@@ -53,21 +53,21 @@ Sasse_1996,F-Mx,Prunus serotina,Prunus,Hardwood,1
 Sasse_1996,F-Mx,Tsuga canadensis,Tsuga,Softwood,1
 Sasse_1996,F-Mx,Betula papyrifera,Betula,Hardwood,1
 Sasse_1996,F-Mx,Fraxinus americana,Fraxinus,Hardwood,1
-Silvis_2012,F-Mx,Acer spp.,Acer,Hardwood,11
-Silvis_2012,F-Mx,Carya spp.,Carya,Hardwood,3
-Silvis_2012,F-Mx,Celtis occidentalis,Celtis,Hardwood,1
-Silvis_2012,F-Mx,Cercis canadensis,Cercis,Hardwood,4
-Silvis_2012,F-Mx,Fagus grandifolia,Fagus,Hardwood,3
-Silvis_2012,F-Mx,Fraxinus americana,Fraxinus,Hardwood,6
-Silvis_2012,F-Mx,Fraxinus quadrangulata,Fraxinus,Hardwood,1
-Silvis_2012,F-Mx,Juglans nigra,Juglans,Hardwood,2
-Silvis_2012,F-Mx,Juniperus virginiana,Juniperus,Softwood,1
-Silvis_2012,F-Mx,Nyssa sylvatica,Nyssa,Hardwood,1
-Silvis_2012,F-Mx,Planatus occidentalis,Planatus,Hardwood,1
-Silvis_2012,F-Mx,Quercus spp.,Quercus,Hardwood,12
-Silvis_2012,F-Mx,Robinia pseudoacacia,Robinia,Hardwood,3
-Silvis_2012,F-Mx,Sassafras albidum,Sassafras,Hardwood,51
-Silvis_2012,F-Mx,Ulmus spp.,Ulmus,Hardwood,5
+Silvis_2015,F-Mx,Acer spp.,Acer,Hardwood,11
+Silvis_2015,F-Mx,Carya spp.,Carya,Hardwood,3
+Silvis_2015,F-Mx,Celtis occidentalis,Celtis,Hardwood,1
+Silvis_2015,F-Mx,Cercis canadensis,Cercis,Hardwood,4
+Silvis_2015,F-Mx,Fagus grandifolia,Fagus,Hardwood,3
+Silvis_2015,F-Mx,Fraxinus americana,Fraxinus,Hardwood,6
+Silvis_2015,F-Mx,Fraxinus quadrangulata,Fraxinus,Hardwood,1
+Silvis_2015,F-Mx,Juglans nigra,Juglans,Hardwood,2
+Silvis_2015,F-Mx,Juniperus virginiana,Juniperus,Softwood,1
+Silvis_2015,F-Mx,Nyssa sylvatica,Nyssa,Hardwood,1
+Silvis_2015,F-Mx,Planatus occidentalis,Planatus,Hardwood,1
+Silvis_2015,F-Mx,Quercus spp.,Quercus,Hardwood,12
+Silvis_2015,F-Mx,Robinia pseudoacacia,Robinia,Hardwood,3
+Silvis_2015,F-Mx,Sassafras albidum,Sassafras,Hardwood,51
+Silvis_2015,F-Mx,Ulmus spp.,Ulmus,Hardwood,5
 Timpone_2010,UNK,Quercus spp.,Quercus,Hardwood,17
 Timpone_2010,UNK,Acer spp.,Acer,Hardwood,9
 Timpone_2010,UNK,Ulmus spp.,Ulmus,Hardwood,4
@@ -172,3 +172,7 @@ Schultes_2002,MF-Mx,Cercis canadensis,Cercis,Hardwood,3
 Schultes_2002,MF-Mx,Cornus spp.,Cornus,Hardwood,1
 Schultes_2002,MF-Mx,Acer spp.,Acer,Hardwood,1
 Schultes_2002,MF-Mx,Pinus virginiana,Pinus,Softwood,1
+Broders_2004,F-Mx,NA,NA,Hardwood,51
+Broders_2004,F-Mx,NA,NA,Softwood,4
+Broders_2004,M-Mx,NA,NA,Hardwood,29
+Broders_2004,M-Mx,NA,NA,Softwood,28
