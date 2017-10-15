@@ -1,6 +1,8 @@
 UID,population,age,sex,rep_stat,n_bats
 Broders_2004,F-Mx,NA,Female,NA,16
 Broders_2004,M-Mx,NA,Male,NA,16
+Broders_2006,F-Mx,NA,Female,NA,17
+Broders_2006,M-Mx,NA,Male,NA,16
 Carter_2005,F-Mx,A,Female,NA,10
 Cryan_2001,F-Mx,A,Female,NR,2
 Cryan_2001,F-Mx,A,Female,P,6
@@ -27,7 +29,8 @@ Lacki_2009,F-Mx,A,Female,PL,2
 Lacki_2009,F-Mx,A,Female,NR,7
 Menzel_2002,F-L,A,Female,L,7
 Park_2012,F-L,A,Female,L,6
-Park_2012,M-NR,A,Female,NR,8
+Park_2012,F-NR,A,Female,NR,8
+Park_2012,F-Mx,A,Female,NA,14
 Perry_2007,M-Mx,A,Male,NA,17
 Perry_2007,F-Mx,A,Female,NA,21
 Perry_2007,F-Mx,J,Female,NA,2
